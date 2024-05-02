@@ -27,6 +27,19 @@ Este repositorio contiene un proyecto de análisis de ventas de productos Adidas
 - **Word y Excel:** Utilizados para documentación, procesamiento de texto y limpieza del dataset.
 - **Power BI:** Utilizado para la creación del tablero de control.
 
+## Imagenes 
+
+![Portada](https://github.com/AndresBolla/Ventas-Adidas-USA/blob/91a42b163e0ca53926a73dd47c33e4414fc8dee9/portada.png)
+
+### Tabla SQL 
+![Tablasql](https://github.com/AndresBolla/Ventas-Adidas-USA/blob/91a42b163e0ca53926a73dd47c33e4414fc8dee9/Informacion%20de%20tabla%20sql%20(1).png)
+
+### Diagrama entidad-relacion SQL
+![Diagrama entidad-entidad sql](https://github.com/AndresBolla/Ventas-Adidas-USA/blob/91a42b163e0ca53926a73dd47c33e4414fc8dee9/Diagrama%20de%20entidad%20relacion%20sql.png)
+
+### Diagrama entidad-relacion Power BI
+![Diagrama entidad relacion power bi](https://github.com/AndresBolla/Ventas-Adidas-USA/blob/91a42b163e0ca53926a73dd47c33e4414fc8dee9/Diagrama%20de%20entidad-relacion%20power%20bi.png)
+
 ## Instrucciones de Uso
 
 1. Clona este repositorio en tu máquina local.
